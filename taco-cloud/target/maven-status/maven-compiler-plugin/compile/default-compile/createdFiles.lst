@@ -1,0 +1,11 @@
+sia\tacocloud\tacos\TacoOrder.class
+sia\tacocloud\database\IngredientRepository.class
+sia\tacocloud\web\DesignTacoController.class
+sia\tacocloud\TacoCloudApplication.class
+sia\tacocloud\database\JdbcIngredientRepository.class
+sia\tacocloud\tacos\Ingredient$Type.class
+sia\tacocloud\web\IngredientByIdConverter.class
+sia\tacocloud\web\OrderController.class
+sia\tacocloud\tacos\Taco.class
+sia\tacocloud\web\WebConfig.class
+sia\tacocloud\tacos\Ingredient.class
